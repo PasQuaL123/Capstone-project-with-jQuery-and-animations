@@ -1,0 +1,144 @@
+html{
+	height: 100%;
+}
+
+body{
+	background: #667db6;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	width: 75%;
+	margin: auto;
+}
+
+#home_img{
+	display: none;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: auto;
+	padding-top: 10px;
+
+}
+
+.display-3{
+	text-align: center;
+	color: white;
+}
+
+#frontimg{
+	width: 100%;
+	border-color: lightblue;
+	border-style: solid;
+	border-width: 5px;
+}
+
+#see_more_home_pg{
+	width: 100%;
+	height: auto;
+}
+
+#see_more_home_pg > p{
+	display: block;
+	float: right;
+	font-size: 25px;
+}
+
+#dubai_special_pg > h1{
+	text-align: center;
+	color: white;
+}
+
+#dubai_special_pg > img{
+	width: 100%;
+	border-color: white;
+	border-width: 5px;
+	border-style: solid;
+	padding: 10px;
+}
+
+#dubai_special_pg > h2{
+	text-align: left;
+	color: #6200EA;
+}
+
+.container-fluid > p{
+	color: white;
+	font-size: 25px;
+}
+
+.container-fluid{
+	width: 100%;
+}
+
+#link{
+	text-decoration: none;
+	color: white;
+
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+
+#alert_coupon{
+	text-align: center;
+	float: left;
+}
+
+#places_page >h1{
+	color: white;
+	text-align: center;
+}
+
+.figure > figcaption{
+	color: white;
+	font-size: 20px;
+}
+
+#alertpackage{
+	text-align: center;
+	font-weight: bold;
+}
+
+#cartpage > h1{
+	color: white;
+	text-align: center;
+}
+
+#PriceAlert{
+	color: red;
+}
+
+#done{
+	width: 100%;
+}
+
+#delete{
+	width: 100%;
+}
+
+#couponbtn{
+	width: 100%;
+}
+
+#helppage > h1{
+	color: white;
+	font-size: 50px;
+}
+
+#helppage > h2{
+	color: white;
+	font-size: 30px;
+}
+
+footer{
+	color: white;
+	float: left;
+}
+
+div.container{
+	float: left;
+	display: block;
+}
+
